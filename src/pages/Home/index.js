@@ -10,7 +10,7 @@ export default function Home() {
     
     <View style={styles.container}>
         <Header name="Ilka carmo"/>
-      <Balance/>
+      <Balance saldo="9.250.90" gasto="- 527,00"/>
 
     </View>
   );
